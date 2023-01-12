@@ -1,0 +1,61 @@
+/* .forma{
+    margin-left: 39.5rem;
+   
+} */
+
+.form-input {
+
+
+    width: 28%;
+    padding: 6px;
+    margin-top: -1rem;
+    border-radius: 4px;
+    border: 2px solid #a5a6a9;
+}
+
+
+
+body {
+    background-color: #eeeded;
+}
+
+.img {
+    margin-top: 1rem;
+    width: 350px;
+    height: 300px;
+}
+
+.contenta {
+    background-color: white;
+    width: 22%;
+    padding: 10px;
+}
+
+.wc {
+    margin-bottom: 1.5rem;
+}
+
+.p1 {
+    color: #707880;
+}
+
+.p2 {
+    color: #a5a6a9;
+}
+
+.p3 {
+    color: #80878f;
+}
+
+.p4 {
+    color: #c5c5c7;
+}
+
+.p5 {
+    color: #8b8f96;
+}
+
+.imagechange {
+    background-color: white;
+    width: 22%;
+}
